@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contanier{
+
+}
+
+.box{
+    width: 879px;
+    height: 127px;
+    background-color: black;
+    border-radius: 50px;
+    margin: 126px auto;
+}
+
+.box_h1{
+    height: 58px;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    color: white;
+    padding-top: 34px;
+    padding-left: 82px;
+    text-shadow: 6px 5px 6.5px #FFFFFFF7;
+}
+
+.instagram{
+    position: relative;
+}
+
+.telegram{
+    position: relative;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+
+.tik_tok{
+    position: relative;
+    margin-left: -12px;
+    margin-top: -22px;
+}
+
+.on_bir{
+    position: absolute;
+    top: -40px;
+    right: -30px;
+    width: 104px;
+    height: 102px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    color: white;
+}
+
+.bir_yuz_on_uch{
+    position: absolute;
+    top: -10px;
+    right: -30px;
+    width: 141px;
+    height: 72px;
+    border-radius: 50px;
+    background-color: #FF0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    color: white;
+}
+
+.olti{
+    position: absolute;
+    top: -23px;
+    right: -20px;
+    width: 104px;
+    height: 102px;
+    border-radius: 50%;
+    background-color: #FF0000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    color: white;
+}
+
+.img{
+    display: flex;
+    gap: 109px;
+    margin-left: 220px;
+    margin-top: 12px;
+}
+
+.i{
+    font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+margin-left: 240px;
+}
+
+.t{
+font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+margin-left: -70px;
+}
+
+.tt{
+    font-family: Inter;
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+margin-right: 320px;
+}
+
+.ITT{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 97px;
+}
